@@ -1,4 +1,4 @@
 templates_dir: templates
 update_mode: push-to-branch
-branch: main
+default_branch: main
 
